@@ -70,6 +70,7 @@ System.out.println(banco.buscaAnuncioPeloIntervaloDeTempo(dataDeInicio, dataDeTe
 1 Java Application. Logo após a execução, aparecerá no console o resultado do relatório, conforme exemplo abaixo:
 
 Relatório: 
+
 Valor investido: 1500.0
 Quantidade máxima de Visualizações: 129617.0
 Quantidade máxima de Cliques: 15554.0

@@ -72,8 +72,11 @@ System.out.println(banco.buscaAnuncioPeloIntervaloDeTempo(dataDeInicio, dataDeTe
 Relatório: 
 
 Valor investido: 1500.0
+
 Quantidade máxima de Visualizações: 129617.0
+
 Quantidade máxima de Cliques: 15554.0
+
 Quantidade máxima de Compartilhamentos: 2115.0
 
 
